@@ -31,7 +31,7 @@ public class HelloServlet extends HttpServlet {
 		
 		writer.println("<html>");
 		writer.println("<body>");
-		writer.println("<h1>Jenkins project </h1>");
+		writer.println("<h1>Jenkins project poll scm </h1>");
 		writer.println("</body>");
 		writer.println("</html>");
 	}
